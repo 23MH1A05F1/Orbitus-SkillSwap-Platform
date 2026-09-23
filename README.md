@@ -270,17 +270,3 @@ Orbitus is currently an actively maintained personal project developed for acade
 
 Feature requests and feedback are welcome, but external code contributions are not currently being accepted.
 
-## License
-
-Copyright (c) 2026 Ayush Kumar
-
-All Rights Reserved.
-
-This project is provided for academic, learning, and portfolio purposes only. No part of this project may be copied, redistributed, modified, or used commercially without explicit permission from the author.
-
-## Author
-
-**Ayush Kumar**
-
-- GitHub: https://github.com/AyushKmr0
-- Project: Orbitus Skill Swap Platform
